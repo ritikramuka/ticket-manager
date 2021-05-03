@@ -80,7 +80,8 @@ border-radius:2px;
 .fas{
     font-size:x-large;
 }
-.active{
+.action-container__icons:hover{
+    background-color: rgb(100, 71, 26);
     
 }
 /* main container css**************************** */
@@ -158,6 +159,3 @@ height:8%;
     height: 70%;
     
 }
-
-
-
